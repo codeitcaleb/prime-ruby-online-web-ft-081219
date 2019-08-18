@@ -1,4 +1,4 @@
-# Implementing Prime
+Day# Implementing Prime
 
 ## Objectives
 
